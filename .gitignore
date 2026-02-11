@@ -46,6 +46,7 @@ app.*.map.json
 
 
 analysis_output.txt
+pubspec.lock
 
 # Windows specific
 Thumbs.db
